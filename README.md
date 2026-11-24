@@ -1,2 +1,2 @@
 # java-dsa
-collection of my practise problems including solution using java
+Collection of my practice problems including solution using java
